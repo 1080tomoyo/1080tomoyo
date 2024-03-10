@@ -16,4 +16,4 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,jquery,next,angular,nodejs,github,php,laravel,mysql,wordpress,firebase,aws,vscode,docker,illustrator,photoshop,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,github,php,laravel,mysql,wordpress,firebase,aws,vscode,docker,illustrator,photoshop,figma"/>
