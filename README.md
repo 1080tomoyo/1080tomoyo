@@ -14,6 +14,6 @@
 
 
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# Learning Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,github,php,laravel,mysql,wordpress,firebase,aws,vscode,docker,illustrator,photoshop,figma"/>
