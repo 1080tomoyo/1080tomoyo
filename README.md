@@ -16,4 +16,4 @@
 
 # Learning Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,github,php,laravel,mysql,wordpress,firebase,aws,vscode,docker,illustrator,photoshop,figma"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,js,nodejs,nuxtjs,nestjs,redux,webpack,npm,babel,aws,firebase,git,github,html,css,jquery,vscode,docker,php,laravel,mysql,ruby,rails,wordpress,illustrator,photoshop,figma"/>
