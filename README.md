@@ -1,6 +1,7 @@
 # 👋 Hi! I'm Tomoyo!
-![Tomoyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1080tomoyo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1080tomoyo&layout=compact)
+![Tomoyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1080tomoyo&show&count_private=true_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1080tomoyo&layout=compact&count_private=true)
+
 
 # Learning Skill (Programming Languages, Frameworks and Tools)
 
