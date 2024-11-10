@@ -1,9 +1,8 @@
 # 👋 Hi! I'm Tomoyo!
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=1080tomoyo&show&count_private=true_icons=true" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1080tomoyo&layout=compact&count_private=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=1080tomoyo&count_private=true&show_icons=true" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1080tomoyo&layout=compact&count_private=true" />
 </p>
-
 
 # Learning Skill (Programming Languages, Frameworks and Tools)
 
