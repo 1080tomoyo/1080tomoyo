@@ -3,4 +3,4 @@
 
 # Learning Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,js,nodejs,nuxtjs,nestjs,redux,webpack,npm,babel,aws,firebase,git,github,html,css,jquery,vscode,docker,php,laravel,mysql,ruby,rails,wordpress,illustrator,photoshop,figma"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,aws,react,nextjs,ts,vue,js,nodejs,nuxtjs,nestjs,redux,webpack,npm,babel,firebase,git,github,html,css,jquery,vscode,docker,ruby,rails,wordpress,illustrator,photoshop,figma"/>
